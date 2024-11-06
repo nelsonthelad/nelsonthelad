@@ -16,9 +16,9 @@
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)]
-[![Hyper](https://img.shields.io/badge/Hyper-000000?style=flat-square&logo=hyper&logoColor=fff)](#)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)](#)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
+![Hyper](https://img.shields.io/badge/Hyper-000000?style=flat-square&logo=hyper&logoColor=fff)(#)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 ### 💻 Current Projects
