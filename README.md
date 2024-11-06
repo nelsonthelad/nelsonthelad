@@ -4,14 +4,14 @@
 [![Instagram Badge](https://img.shields.io/badge/-nelsondaniels-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/nelsonthelad/)](https://instagram.com/nelsonthelad)
 
 ### 🤠 About Me 
--Computer Science student specializing in AI and Machine Learning at Carleton University
--I like making things with microcontrollers
--My best friend is the ';' key
+- Computer Science student specializing in AI and Machine Learning at Carleton University
+- I like making things with microcontrollers
+- My best friend is the ';' key
 
 ### 🔧 Techologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
@@ -19,7 +19,11 @@
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 ### 💻 Current Projects
-- **AI-Based Study Tool** - [Repository Link](#)
-  - Generates practice questions from study slides
-- **Raspberry Pi Blinds Controller** - [Repository Link](#)
+- **study.ai** - [Repo](https://github.com/nelsonthelad/study.ai)
+  - Takes in a PDF of lecture slides
+  - Generates practices question pdf and notes pdf
+  - Saves locally to the device
+- **Raspberry Pi Blinds Controller** - [Link soon](#)
   - Controls blinds using Raspberry Pi Pico W
+  - Uses a web server hosted by the pico
+  - 3D printed brackets hold everything together
