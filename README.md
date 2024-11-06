@@ -1,7 +1,7 @@
 # Hello, I'm Nelson 🗿
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nelsondaniels/)](https://www.linkedin.com/in/nelsondaniels/)
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/nelsonthelad/)](https://instagram.com/nelsonthelad)
+[![Linkedin Badge](https://img.shields.io/badge/-nelsonthelad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nelsondaniels/)](https://www.linkedin.com/in/nelsondaniels/)
+[![Instagram Badge](https://img.shields.io/badge/-nelsondaniels-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/nelsonthelad/)](https://instagram.com/nelsonthelad)
 
 ### 🤠 About Me 
 -Computer Science student specializing in AI and Machine Learning at Carleton University
