@@ -8,7 +8,7 @@
 - I like making things with microcontrollers
 - My best friend is the ';' key
 
-### 🔧 Techologies
+### 🔧 Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -17,9 +17,15 @@
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
-![Hyper](https://img.shields.io/badge/Hyper-000000?style=flat-square&logo=hyper&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+
+### 💻 Software
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=F0F0F0)
+![Hyper](https://img.shields.io/badge/Hyper-000000?style=flat-square&logo=hyper&logoColor=fff)
+![VSCode](https://img.shields.io/badge/VSCode-0078D6?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Opera GX](https://img.shields.io/badge/Opera%20GX-EE2950?style=flat-square&logo=operagx&logoColor=fff)
 
 ### 💻 Current Projects
 - **study.ai** - [Repo](https://github.com/nelsonthelad/study.ai)
