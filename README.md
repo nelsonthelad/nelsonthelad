@@ -43,7 +43,6 @@
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=F0F0F0)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry-Pi)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 
 ### Other Tools:
 ![Hyper](https://img.shields.io/badge/Hyper-000000?style=flat&logo=hyper&logoColor=fff)
