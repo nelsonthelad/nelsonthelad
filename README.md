@@ -32,12 +32,12 @@
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=F0F0F0)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-### IDEs:
-
+### Fav Apps:
 ![Hyper](https://img.shields.io/badge/Hyper-000000?style=flat-square&logo=hyper&logoColor=fff)
+![Opera GX](https://img.shields.io/badge/Opera%20GX-EE2950?logo=operagx&logoColor=fff)
 
 
-### 💻 Current Projects
+## 💻 Current Projects
 
 | Project | Description | Tech Stack | Code |
 |---------|-------------|------------|------|
