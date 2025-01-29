@@ -62,3 +62,20 @@
 | **study.ai** | AI-powered study tool that processes lecture slides to generate practice questions and study notes. Includes local file storage functionality. | Python, PyPDF2, CustomTkinter, OpenAI API | [Repo](https://github.com/nelsonthelad/study.ai) |
 | **Anatomics** | Web application for workout planning and diet tracking, featuring an interactive 3D muscle visualization system for exercise targeting. | React, Three.js, TailwindCSS, Node.js | [Repo](https://github.com/Goshenko/Anatomics) |
 | **Raspberry Pi Blinds Controller** | IoT solution for automated blind control using a Raspberry Pi Pico W, featuring a web interface and custom 3D printed mounting system. | Python, MicroPython, HTML/CSS, 3D Printing | *Coming Soon* |
+
+
+<div align="center">
+
+  <h1>GitHub Stats</h1>
+  
+</div>
+<div align="center">
+  
+  ![nelsonthelad's Stats](https://github-readme-stats.vercel.app/api?username=nelsonthelad&theme=dark&show_icons=true&hide_border=true&count_private=true)
+  
+</div>
+<div align="center">
+
+  ![nelsonthelad's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonthelad&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
+</div>
