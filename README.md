@@ -1,4 +1,6 @@
-<h1 align="center">Hello, I'm Nelson 🗿</h1>
+<div align="center">
+  <img src="header.png" alt="Header" width="70%">
+</div>
 
 ###
 
