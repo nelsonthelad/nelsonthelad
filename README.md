@@ -78,7 +78,7 @@
 
 ###
 
-## 💻 Current Projects
+<h2 align="center"> 💻 Current Projects </h2>
 
 | Project | Description | Tech Stack | Code |
 |---------|-------------|------------|------|
