@@ -1,6 +1,14 @@
 <div align="center">
-  <img src="header.png" alt="Header" width="70%">
+  <img src="header.png" alt="Header">
 </div>
+
+###
+
+<h2 align="center">🤠 About Me</h3>
+
+###
+
+<p align="center">CS Student @ Carleton University Specializing in AI and Machine Learning<br><br>I like making cool things with microcontrollers<br><br> My best friend is the ';' key</p>
 
 ###
 
@@ -12,14 +20,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-<h3 align="center">🤠 About Me</h3>
-
-###
-
-<p align="center">CS Student @ Carleton University Specializing in AI and Machine Learning<br><br>I like making cool things with microcontrollers<br><br> My best friend is the ';' key</p>
 
 ###
 
